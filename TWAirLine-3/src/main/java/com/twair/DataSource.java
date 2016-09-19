@@ -12,6 +12,7 @@ public class DataSource {
         List<String> locations = new ArrayList<String>();
         locations.add("Hyderabad");
         locations.add("Bangalore");
+        locations.add("Chennai");
         return locations;
     }
 
