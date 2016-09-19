@@ -13,6 +13,7 @@ public class DataSource {
         locations.add("Hyderabad");
         locations.add("Bangalore");
         locations.add("Chennai");
+        locations.add("Ongole");
         return locations;
     }
 
